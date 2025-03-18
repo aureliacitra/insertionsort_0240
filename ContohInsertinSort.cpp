@@ -36,4 +36,11 @@ void insertionSort()
     
 int temp; // Membuat variable data temperorer atau penyimpanan sementara
 int j, i; // Membuat variable j sebagai penanda
+
+for (i = 1; i <= n - 1; i++)
+{ // step 1
+    temp = arr[i]; // step 2
+    j = i - 1; // step 3
+    
+}
 }
